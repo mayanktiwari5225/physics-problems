@@ -1,1 +1,1 @@
-# physics-problems
+# Physics Problems
