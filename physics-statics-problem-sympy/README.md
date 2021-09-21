@@ -56,7 +56,7 @@ display(eq3)
 
 
 
-![formula](https://render.githubusercontent.com/render/math?math=A_{x} - \frac{T d}{l_{c}} = 0)
+![formula]('https://render.githubusercontent.com/render/math?math=A_{x} - \frac{T d}{l_{c}} = 0')
 
 
 ![formula](https://render.githubusercontent.com/render/math?math=A_{y} - \frac{T \sqrt{- d^{2} + l_{c}^{2}}}{l_{c}} - w = 0)
