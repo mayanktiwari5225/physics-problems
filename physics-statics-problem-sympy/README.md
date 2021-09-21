@@ -3,7 +3,7 @@
 
 ## Question
 
-![static-problem-sympy-question.png](attachment:static-problem-sympy-question.png)
+![static-problem-sympy-question.png](https://github.com/python4phys1cs/physics-problems/blob/150baeecb45752af2069ef6643b810cc0a274896/physics-statics-problem-sympy/static-problem-sympy-question.png)
 
 ## Solution
 
