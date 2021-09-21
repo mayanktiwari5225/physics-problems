@@ -56,16 +56,14 @@ display(eq3)
 
 
 
-$\displaystyle A_{x} - \frac{T d}{l_{c}} = 0$
+![png](https://github.com/python4phys1cs/physics-problems/blob/0f6e63fd4db3999fa63bcaabe6c9206614130783/physics-statics-problem-sympy/output-latex-images/output_4_1.png)
+
+
+![png](https://github.com/python4phys1cs/physics-problems/blob/0f6e63fd4db3999fa63bcaabe6c9206614130783/physics-statics-problem-sympy/output-latex-images/output_4_2.png)
 
 
 
-$\displaystyle A_{y} - \frac{T \sqrt{- d^{2} + l_{c}^{2}}}{l_{c}} - w = 0$
-
-
-
-$\displaystyle \frac{T d \sqrt{- d^{2} + l_{c}^{2}}}{l_{c}} - l w = 0$
-
+![png](https://github.com/python4phys1cs/physics-problems/blob/0f6e63fd4db3999fa63bcaabe6c9206614130783/physics-statics-problem-sympy/output-latex-images/output_4_3.png)
 
 ### Solving the given equations using ``solve``
 
