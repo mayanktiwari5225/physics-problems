@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Physics Problems
 
 You can use the [editor on GitHub](https://github.com/python4phys1cs/physics-problems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
