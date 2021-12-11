@@ -1,1 +1,1 @@
-#Solving Riccati Equation
+# Solving Riccati Equation
