@@ -4,7 +4,7 @@
 
 1. [Calculating the bandgap of semiconductor using transmittance data](https://github.com/python4phys1cs/physics-problems/blob/gh-pages/calculating-bandgap/calculating-bandgap.ipynb)
 
-### Some intresting Physics Problems that I solved while working as Tutor at Chegg and Coursehero.
+### Some intresting Physics Problems that I solved while working as Tutor at Chegg and [Coursehero](https://www.coursehero.com/profile/kagey4ma1/)
 
 #### Python
 
